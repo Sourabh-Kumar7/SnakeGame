@@ -4,7 +4,8 @@ using namespace std;
 class Snake
 {
   private:
-  
+      int x,y;
+    
   public:
   
 };
