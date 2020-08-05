@@ -7,8 +7,11 @@ class Snake
       int x,y;
     
   public:
-   void setup();
-   void draw(); 
+  void setup();
+  void draw();
+  void input();
+  void logic();
+  
   
 };
 
