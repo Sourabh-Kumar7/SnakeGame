@@ -17,5 +17,13 @@ class Snake
 
 int main()
 {
+  Snake s;
+  s.setup();
+  while(!gameOver)
+  {
+    s.draw();
+    s.input();
+    s.logic();
+  }
   return 0;
 }
