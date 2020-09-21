@@ -1,2 +1,2 @@
 # SnakeGame
-The classic snake game that a lot of us were addicted to playing on our cellphones implemented in C++.
+It is a simple console based game implemented in c++.
