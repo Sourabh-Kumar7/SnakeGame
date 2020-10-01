@@ -12,7 +12,7 @@ Clone the repo<br/>
 
 Open the directory<br/>
 
-`cd Tic-Tac-Toe`<br/>
+`cd SnakeGame`<br/>
 
 ## Usage
 ### Compilation
